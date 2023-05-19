@@ -1,0 +1,15 @@
+{
+  "name": "vercel-moon-failure-reproduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "moon --version"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@moonrepo/cli": "^1.2.2"
+  }
+}
